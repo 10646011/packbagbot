@@ -14,7 +14,7 @@ jinja2==2.10
 markupsafe==1.0
 pycparser==2.19
 python-telegram-bot==11.1.0
-requests==2.19.1
+requests==2.20.0
 six==1.11.0
 urllib3==1.23
 werkzeug==0.14.1
